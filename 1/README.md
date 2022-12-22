@@ -5,7 +5,6 @@ This is the body of the zettle.
 
 * First bullet
 * Second bullet
-* Third bullet
 
 
 Example: *italic* or **bold** or ***bolditalic***
