@@ -2,10 +2,10 @@
 
 Types of **Markdown**:
 
-Bold: **Bold Example**
-Italic: *Italic Example*
-BoldItalic: ***Bold Italic Example***
-Strikethrough: ~strikethrough example~
+Bold: **Bold Example**  
+Italic: *Italic Example*  
+BoldItalic: ***Bold Italic Example***  
+Strikethrough: ~strikethrough example~  
 
 1. Basic
 1. Common
@@ -30,7 +30,7 @@ echo "This is an example code block."
 
 images can be inserted like so:
 
-![Image of a dog](./dog.png)
+![Image of a dog](https://upload.wikimedia.org/wikipedia/commons/1/18/Dog_Breeds.jpg)
 
 Link text: [link example](https://google.com)
 Visible link: <https://google.com>
