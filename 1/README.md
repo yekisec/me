@@ -19,7 +19,7 @@ echo "Hello Code Block Example."
 
 ```
 
-[Communication with Noteboxes - by Niklas Luhmann](https://daily.scottscheper.com/zettelkasten/)
+* [Communication with Noteboxes - by Niklas Luhmann](https://daily.scottscheper.com/zettelkasten/)
 
 
     #zet #note #knowledge
