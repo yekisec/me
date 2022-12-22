@@ -15,6 +15,8 @@ virt-install --name boost \
 --boot cdrom,hd
 ```
 
+---
+
 **Cheatsheet**:
 |Explanation|Command|
 |-----------|-------|
