@@ -32,10 +32,10 @@ images can be inserted like so:
 
 ![Image of a dog](https://upload.wikimedia.org/wikipedia/commons/1/18/Dog_Breeds.jpg)
 
-Link text: [link example](https://google.com)
-Visible link: <https://google.com>
-Phone number link: <tel:1234567890>
-email link: <mailto:example@example.example>
+Link text: [link example](https://google.com)  
+Visible link: <https://google.com>  
+Phone number link: <tel:1234567890>  
+email link: <mailto:example@example.example>  
 
 > Here is a block quote.
 >
@@ -45,3 +45,13 @@ email link: <mailto:example@example.example>
 Eventually you will want to use Pandoc markdown syntax for everything as its the most powerful, sustainable, and supported format for capturing knowledge source.
 
 The original Markdown was never standardized and has evolved into more than a dozen flavors many of which are incompatible with one another.
+
+
+Table example:
+
+|item|price|
+|----|-----|
+|Orange|2$|
+|Pepsi|2$|
+|Pizza|4$|
+
