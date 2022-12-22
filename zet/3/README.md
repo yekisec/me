@@ -25,7 +25,7 @@ Once the VM has been created with the above command, you can list all of of the 
 |Reboot a VM|`virsh reboot boost`|
 |Shutdown a VM|`virsh shutdown boost`|
 |Force shutdown a VM|`virsh destroy boost`|
-|Delete a VM|`virsh undefine boost --remove-all-storage|
+|Delete a VM|`virsh undefine boost --remove-all-storage`|
 |Display VMs VNC listen port|`virsh vncdisplay boost`|
 |Connect to VMs VNC port|`tigervnc-viewer localhost:0`|
 
