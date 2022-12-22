@@ -15,12 +15,10 @@ virt-install --name boost \
 --boot cdrom,hd
 ```
 
-Once the VM has been created with the above command, you can list all of of the VMs with:
-
-`virsh list --all`
-
+**Cheatsheet**:
 |Explanation|Command|
 |-----------|-------|
+|List all VMs|`virsh list --all`|
 |Start a VM|`virsh start boost`|
 |Reboot a VM|`virsh reboot boost`|
 |Shutdown a VM|`virsh shutdown boost`|
@@ -28,7 +26,7 @@ Once the VM has been created with the above command, you can list all of of the 
 |Delete a VM|`virsh undefine boost --remove-all-storage`|
 |Display VMs VNC listen port|`virsh vncdisplay boost`|
 |Connect to VMs VNC port|`tigervnc-viewer localhost:0`|
-
+|Lists OS definitions for use with virt-install|`osinfo-query os`|
 
 * Tutorial utilized: <https://adamtheautomator.com/virsh/>
 
