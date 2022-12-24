@@ -10,5 +10,9 @@
 
 
 ## references
-* [bash manual - shell operation][ref01]: <https://www.gnu.org/software/bash/manual/html_node/Shell-Operation.html>
-* [bash manual - shell operation][#ref01]: <https://www.gnu.org/software/bash/manual/html_node/Shell-Operation.html>
+[bash manual - shell operation][ref01]: <https://www.gnu.org/software/bash/manual/html_node/Shell-Operation.html>
+[bash manual - shell operation]{ref01}: <https://www.gnu.org/software/bash/manual/html_node/Shell-Operation.html>
+[bash manual - shell operation](ref01): <https://www.gnu.org/software/bash/manual/html_node/Shell-Operation.html>
+[bash manual - shell operation][#ref01]: <https://www.gnu.org/software/bash/manual/html_node/Shell-Operation.html>
+[bash manual - shell operation]{#ref01}: <https://www.gnu.org/software/bash/manual/html_node/Shell-Operation.html>
+[bash manual - shell operation](#ref01): <https://www.gnu.org/software/bash/manual/html_node/Shell-Operation.html>
