@@ -4,10 +4,10 @@
   1. from a file provided as an argument (referred to as a **bash script**)
   1. as an argument passed to bash via the `-c` command-line option.
   1. from the users terminal
-> source: [shell operation](#shell operation)
+> source: [shell operation](#shell-operation)
 
 
 
 ## references
-##### shell operation
+##### shell-operation
   * <https://www.gnu.org/software/bash/manual/html_node/Shell-Operation.html>
