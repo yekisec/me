@@ -10,5 +10,5 @@
 
 
 ## references
-##### ref01 
- * **bash manual - shell operation**: <https://www.gnu.org/software/bash/manual/html_node/Shell-Operation.html>
+##### shell operation
+  * <https://www.gnu.org/software/bash/manual/html_node/Shell-Operation.html>
